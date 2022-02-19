@@ -1,0 +1,10 @@
+C:\Users\jcast\Desktop\CLASES 2022\Progra\clase 09.0.2.2022\bin\Debug\clase 09.0.2.2022.exe
+C:\Users\jcast\Desktop\CLASES 2022\Progra\clase 09.0.2.2022\bin\Debug\clase 09.0.2.2022.pdb
+C:\Users\jcast\Desktop\CLASES 2022\Progra\clase 09.0.2.2022\bin\Debug\clase 09.0.2.2022.xml
+C:\Users\jcast\Desktop\CLASES 2022\Progra\clase 09.0.2.2022\obj\Debug\clase 09.0.2.2022.vbproj.AssemblyReference.cache
+C:\Users\jcast\Desktop\CLASES 2022\Progra\clase 09.0.2.2022\obj\Debug\clase_09._0._2._2022.Resources.resources
+C:\Users\jcast\Desktop\CLASES 2022\Progra\clase 09.0.2.2022\obj\Debug\clase 09.0.2.2022.vbproj.GenerateResource.cache
+C:\Users\jcast\Desktop\CLASES 2022\Progra\clase 09.0.2.2022\obj\Debug\clase 09.0.2.2022.vbproj.CoreCompileInputs.cache
+C:\Users\jcast\Desktop\CLASES 2022\Progra\clase 09.0.2.2022\obj\Debug\clase 09.0.2.2022.exe
+C:\Users\jcast\Desktop\CLASES 2022\Progra\clase 09.0.2.2022\obj\Debug\clase 09.0.2.2022.xml
+C:\Users\jcast\Desktop\CLASES 2022\Progra\clase 09.0.2.2022\obj\Debug\clase 09.0.2.2022.pdb
